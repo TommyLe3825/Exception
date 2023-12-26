@@ -1,5 +1,5 @@
-# Exception-
-More on Exceptions
+# Exception
+More on Exceptions on Sololearn
 
 You are making a digital menu, which takes a number as user input, and outputs the corresponding menu item.
 
